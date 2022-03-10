@@ -43,6 +43,7 @@ class PricesPage extends StatelessWidget {
     );
   }
 
+  //
   TransparentAppBar _appbar(BuildContext context) {
     return TransparentAppBar(
         backgroundColor: context.themeColor.secondary,
